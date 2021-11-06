@@ -3,7 +3,7 @@ import useAuth from "./composable/useAuth";
 
 import Index from './pages/index.vue'
 import About from './pages/about.vue'
-import Items from './pages/ItemList.vue'
+import Items from './pages/itemList.vue'
 import Contact from './pages/contact.vue'
 import PageNotFound from './pages/404.vue'
 import Secret from './pages/secret.vue'
